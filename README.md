@@ -4,7 +4,7 @@ Cryptography Project 1
 This project should function as intended with the grading script.
 However, just to be careful it works as follows after running make:
 
-./proj <operation> <filename> > <output filename>
+./proj operation filename > output-filename
 
 Where operation is one of the following {hexdump, enc-base64, dec-base64}.
 
